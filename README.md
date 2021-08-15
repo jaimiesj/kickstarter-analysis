@@ -38,3 +38,6 @@ I overlooked incorporating *plays* into **outcome based on goals** initially but
   - pivot tables/graphs that account for country 
   - analysis of outcome based on precent funded
 
+Additional information can be found in the Resources folder 
+https://github.com/jaimiesj/kickstarter-analysis/commit/bed547ae2ccabb7e843396ef8aa8aa365c0e08c9
+
