@@ -1,2 +1,2 @@
-# an-analysis-of-kickstarter-campaigns-module-1
+# An Analysis of Kickstarter Campaigns Module 1
 Kickstarters can be challenging but with the right analysis, you can learn from what others have done well or poorly to achieve *your* **goals**. I've included my analysis of the various kickstarter campaigns, specifically focusing on US and GB projects, along with visuals, to help you determine next steps. In the end, it looks like the best course of action would be to keep your goal below £2000 and start in May or June. Good luck on your endeavor!
